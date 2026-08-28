@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+
+# Documentos de trabajo, no van al repo del sitio
+HANDOFF_DASHBOARD_REPLICABLE.md
+PROMPT_Portafolio_Entrevista.md
+.claude/
